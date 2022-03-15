@@ -3,10 +3,7 @@
   "version": "1.0.0",
   "description": "testing commit lint on a js project",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "husky install"
-  },
+ 
   "author": "",
   "license": "ISC",
   "devDependencies": {
